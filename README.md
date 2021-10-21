@@ -68,7 +68,7 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/sourav-mp4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://www.instagram.com/invites/contact/?i=1oqsm9yjv5qlu&utm_content=l5aa0p4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
@@ -101,7 +101,7 @@ As per the license, You Can But We Will Not Support. 🙃
 <br>
   <div align="center">
     
-  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/ClnLdmPpRh1BjtAY86njhN)
+  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/EkMZJBMONOi5EDOISRE56E)
 
 
     
@@ -122,7 +122,7 @@ As per the license, You Can But We Will Not Support. 🙃
 <br>
 <br >
 
-[![SOURAVKL11](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
+[![TAURUS SIR OFFICIAL](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
    
 
 
@@ -130,8 +130,8 @@ As per the license, You Can But We Will Not Support. 🙃
 ```
 യൂസർബോട്ട് കാരണം; നിങ്ങളുടെ WhatsApp അക്കൗണ്ട് നിരോധിച്ചേക്കാം.
 ഇതൊരു ഓപ്പൺ സോഴ്സ് പ്രോജക്റ്റാണ്, നിങ്ങൾ ചെയ്യുന്ന എല്ലാത്തിനും നിങ്ങൾ ഉത്തരവാദിയാണ്.
-തീർച്ചയായും, Raganork Developer ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നില്ല.
-Raganork സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങൾ ഈ ഉത്തരവാദിത്തങ്ങൾ സ്വീകരിച്ചതായി കണക്കാക്കപ്പെടുന്നു.
+തീർച്ചയായും,TAURUS-SIR ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നില്ല.
+TAURUS SIR BOT സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങൾ ഈ ഉത്തരവാദിത്തങ്ങൾ സ്വീകരിച്ചതായി കണക്കാക്കപ്പെടുന്നു.
 വ്യാജ നമ്പറുകൾ ഉപയോഗിച്ച് ഉപയോഗിക്കാൻ ശ്രമിക്കുക.
 ```
 
@@ -146,7 +146,7 @@ Raganork സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്
     
   [![souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|
-   [Sourav Kalathingal](https://github.com/souravkl11) 
+   [TAURUS SIR OFFICIAL](https://github.com/souravkl11) 
 Base, Bug Fixes, Modules
   </div>
    
