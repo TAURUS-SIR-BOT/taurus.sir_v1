@@ -58,21 +58,21 @@ Project created by <a href="https://github.com/souravkl11">TAURUS-SIR-OFFICIAL</
 ----
 
   <p align="center">
-  <a href="httsp://github.com/souravkl11/Raganork">
-    <img src="https://img.shields.io/github/repo-size/souravkl11/Raganork?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/TAURUS-SIR-BOT/taurus.sir_v1">
+    <img src="https://www.linkpicture.com/q/TAURUS-SIR-BOT.jpg?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/souravkl11/followers"><img title="Followers" src="https://img.shields.io/github/followers/souravkl11?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/network/members"><img title="Forks" src="https://img.shields.io/github/forks/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/TAURUS-SIR-BOT/followers"><img title="Followers" src="https://https://www.linkpicture.com/q/TAURUS-SIR-BOT.jpg?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/TAURUS-SIR-BOT/taurus.sir_v1/stargazers/"><img title="Stars" src="https://https://www.linkpicture.com/q/TAURUS-SIR-BOT.jpg?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/TAURUS-SIR-BOT/taurus.sir_v1/network/members"><img title="Forks" src="https://https://www.linkpicture.com/q/TAURUS-SIR-BOT.jpg?color=f7df1e&style=flat-square"></a>
 
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
 <a href="https://www.instagram.com/invites/contact/?i=1oqsm9yjv5qlu&utm_content=l5aa0p4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
+<h4 align="center">Support my editing channel click on this photo please:</h4>
 <p align="center">
-<a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="https://i.ytimg.com/vi/iRLphwWvxrs/maxresdefault.jpg" height="180" width="300" /></a>
+<a href="https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA" target="blank"><img align="center" src="https://www.linkpicture.com/q/New-Project-64-44640CE.png" height="180" width="300" /></a>
 
 <div align="left">
 
