@@ -18,7 +18,7 @@
  
   # Feature overview
   
-- [x] Change image and contact of verified tick [ Exclusively on Raganork ]
+- [x] Change image and contact of verified tick [ Exclusively on TAURUS SIR BOT]
 
 - [x] .forward option (Exclusively on TAURUS-SIR-BOT)
 
@@ -41,14 +41,14 @@
 </p>
   
   <p align="center">
-<a href="#"><img title="Raganork" src="https://img.shields.io/badge/Raganork-green?colorA=ff0000&colorB=ff0000&style=for-the-badge"></a>
+<a href="#"><img title="TAURUS-SIR-BOT" src="https://www.linkpicture.com/q/New-Project-64-44640CE.pngcolorA=ff0000&colorB=ff0000&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/souravkl11"><img title="Author" src="https://img.shields.io/badge/Author-souravkl11-raganork/Raganork?color=000000&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/souravkl11">souravkl11</a> to make it public
+Project created by <a href="https://github.com/souravkl11">TAURUS-SIR-OFFICIAL</a> to make it public
     <br>
        | © |
         Reserved |
@@ -144,7 +144,7 @@ TAURUS SIR BOT സ്ഥാപിക്കുന്നതിലൂടെ, നി
 ## Developers
   <div align="center">
     
-  [![souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![TAURUS SIR OFFICIAL](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|
    [TAURUS SIR OFFICIAL](https://github.com/souravkl11) 
 Base, Bug Fixes, Modules
