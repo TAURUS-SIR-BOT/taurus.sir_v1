@@ -34,7 +34,7 @@
 
 <div align="center">
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=TAURUS-SIR-BOT+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+SouravKL11)](https://bit.ly/3lC8I7t)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=TAURUS-SIR-BOT+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+TAURUS-SIR-OFFICIAL)](https://bit.ly/3lC8I7t)
 
 
   <a href="https://www.linkpicture.com/q/New-Project-64-44640CE.png" target="blank"><img align="center" src="https://www.linkpicture.com/q/New-Project-64-44640CE.png" height="400" width="450" /></a>
