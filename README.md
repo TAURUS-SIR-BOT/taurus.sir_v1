@@ -144,9 +144,9 @@ TAURUS SIR BOT സ്ഥാപിക്കുന്നതിലൂടെ, നി
 ## Developers
   <div align="center">
     
-  [![TAURUS SIR OFFICIAL](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![TAURUS SIR OFFICIAL](https://github.com/TAURUS-SIR-BOT.png?size=100)](https://github.com/souravkl11) 
 ----|
-   [TAURUS SIR OFFICIAL](https://github.com/souravkl11) 
+   [TAURUS SIR OFFICIAL](https://github.com/TAURUS-SIR-BOT) 
 Base, Bug Fixes, Modules
   </div>
    
